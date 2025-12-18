@@ -1,16 +1,24 @@
-## Hi there 👋
+# Digital Heritage Workflows
 
-<!--
-**paridhi-arch/paridhi-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This repository documents workflows used in architectural preservation,
+heritage documentation, and spatial analysis projects.
 
-Here are some ideas to get you started:
+The focus is on clear methodology, documentation logic, and reproducibility
+rather than code-heavy solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Work
+- Heritage documentation
+- Condition assessment workflows
+- CAD to GIS integration
+- Spatial databases for built environments
+
+## Tools Used
+- AutoCAD
+- ArcGIS / QGIS
+- InDesign
+- Basic Python (for data handling)
+
+## Purpose
+This repository serves as a living archive of methods and experiments
+developed through academic and professional work.
