@@ -1,24 +1,19 @@
-# Digital Heritage Workflows
+Hi, I’m Paridhee 👋
 
-## Overview
-This repository documents workflows used in architectural preservation,
-heritage documentation, and spatial analysis projects.
+I’m an architect working at the intersection of
+architectural preservation, digital documentation,
+and spatial analysis.
 
-The focus is on clear methodology, documentation logic, and reproducibility
-rather than code-heavy solutions.
+## What I work on
+- Heritage documentation & condition assessments
+- CAD to GIS workflows
+- Spatial data for historic sites
+- Research-driven design systems
 
-## Areas of Work
-- Heritage documentation
-- Condition assessment workflows
-- CAD to GIS integration
-- Spatial databases for built environments
+## Tools
+AutoCAD • ArcGIS • QGIS • InDesign
 
-## Tools Used
-- AutoCAD
-- ArcGIS / QGIS
-- InDesign
-- Basic Python (for data handling)
-
-## Purpose
-This repository serves as a living archive of methods and experiments
-developed through academic and professional work.
+## Currently exploring
+- Digital heritage methodologies
+- Data-driven documentation systems
+- Scalable workflows from material to city scale
